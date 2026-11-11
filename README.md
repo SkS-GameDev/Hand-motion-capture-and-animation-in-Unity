@@ -40,7 +40,7 @@ A controller that receives data via a socket, processes the received data, and m
 
 ### Author and Developer
 
-* Kirill Shutov (ShutovKS), Russia
+* xAFK-BOTx, Russia
 
 ### License
 
